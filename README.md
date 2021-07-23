@@ -1,7 +1,7 @@
 # WINC Academy WebDevelopment
-Assigment 23 - JavaScript: 'Guess the number'-game
+Assignment 23 - JavaScript: 'Guess the number'-game
 
-Ik heb de bonus-opdrachten ook gemaakt:
+Ik heb de bonusopdrachten ook gemaakt:
 
 1. een gebruiker heeft maximaal 5 raadpogingen en krijgt een bericht na iedere raadpoging. 
 Verbeterpunt: Ik heb bij het eerste bericht (nog) niet benoemd dat er maar 5 raadpogingen zijn.
