@@ -1,4 +1,4 @@
-# WINC Academy WebDevelopment
+# WINC Academy Web Development
 Assignment 23 - JavaScript: 'Guess the number'-game
 
 Ik heb de bonusopdrachten ook gemaakt:
